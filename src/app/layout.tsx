@@ -59,10 +59,10 @@ export default function RootLayout({
      
         <meta
           property="og:title"
-          content="Rayen Fassatoui - Web Developer Portfolio"
+          content="Chaima Ben Salah - software Developer Portfolio"
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://rayen.vercel.app" />
+        <meta property="og:url" content="https://chaima.vercel.app" />
        
         <meta property="og:image" content="/metatag.png" />
       </head>

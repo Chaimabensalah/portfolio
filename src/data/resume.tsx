@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Web Developer & Solutions Developer | Skilled in React, Node.js, Angular, Springboot and Modern Database Technologies ",
   summary:
-    "I am a passionate Web Developer with expertise in building dynamic and efficient web applications. I specialize in working with technologies like Angular, React, Node.js, Tailwind CSS, and Spring Boot to create responsive user interfaces and robust backend solutions. My experience includes developing CRUD applications, managing databases like PostgreSQL ,MySQL and MongoDB, and designing intuitive user experiences. I thrive on combining creativity with technical precision to deliver impactful digital solutions. Let’s collaborate to bring your ideas to life!",
+    "I am a passionate Web Developer with expertise in building dynamic and efficient web applications. I specialize in working with technologies like Angular, React, Node.js, Tailwind CSS, and Spring Boot to create responsive user interfaces and robust backend solutions. My experience includes designing and developing scalable web applications, implementing complex business logic, managing databases like PostgreSQL, MySQL, and MongoDB, and crafting intuitive user experiences. I thrive on combining creativity with technical precision to deliver impactful digital solutions. Let’s collaborate to bring your ideas to life!",
   avatarUrl: "/me.jpg",
   skills: [
     "Next.js",
@@ -19,23 +19,17 @@ export const DATA = {
     "Spring Boot", 
     "nodejs",
     "Java", 
-    "C++", 
     "Python", 
     "JavaScript", 
     "Typescript", 
-    "PHP", 
     "HTML5", 
     "CSS3", 
-    "Django", 
     "Bootstrap", 
-    "Android SDK", 
-    "Flutter", 
+    "tailwind css",
     "AWS", 
-    "Azure", 
     "MySQL", 
     "PostgreSQL", 
     "MongoDB", 
-    "Oracle", 
     "Git&GitHub", 
     "Agile methodologies"
   ],
